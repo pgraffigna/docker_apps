@@ -9,4 +9,4 @@ RUN apt-get update && \
 CMD ["python3"]
 
 # crear la imagen
-# docker build -t python3-pgraffigna:v1 .
+# docker build -t NOMBRE_IMAGEN:TAG .
