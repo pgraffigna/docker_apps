@@ -1,6 +1,6 @@
 # dockerfiles_templates
 
-Dockerfiles para crear imágenes
+Dockerfiles para crear imágenes y contenedores.
 
 ---
 Templates:
