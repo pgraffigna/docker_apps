@@ -1,9 +1,10 @@
-# dockerfiles_templates
+# docker_apps
 
-Dockerfiles para crear imágenes y contenedores.
+Archivos para desplegar varias aplicaciones en contenedores con Docker.
 
 ---
-Templates:
+Apps:
 
 - firefox 
 - python-3
+- wireshark
